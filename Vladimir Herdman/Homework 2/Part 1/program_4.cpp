@@ -16,7 +16,7 @@ int main() {
     // print value of a before change
     cout << "Value before changing:  a=" << a << endl;
 
-    // change value of teh pointer that pointes to a pointer
+    // change value of the pointer that pointes to a pointer
     **ptr_ptr = 25;
 
     // print out value of a to show change
