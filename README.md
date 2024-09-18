@@ -1,8 +1,8 @@
-# Homework-3
+# Project-1 
 ECCS 2671: Data Structures and Algorithms I
 Fall Semester 2024
 Project 1: Doubly Linked List Implementation
-Due: Friday, September 27th, 12:00 PM
+Due: Friday, September 27th, 11:59:00 PM
 
 This is a pairwise group assignment (please speak to us if considering working alone). In order to complete this assignment, be sure to accept the GitHub Classroom assignment, clone the repo, and produce a local copy of the cloned repo on your computer. Decide who wants to complete the member functions to implement for Student 1 and who wants to complete the member functions in the list of Student 2 (we made sure to balance them so there is not a significant difference between the two), and record your names in the cpp file that is submitted and commit the change. Branch the repo using either Student-1 or Student-2 as part of the branch name to distinguish the branch, and commit to your branch once your member functions are complete (you are encouraged to divide your work into multiple commits, for example, after you have successfully tested a couple of member functions and know you have a working partial solution), and then perform a pull request for your teammate’s review prior to each merging the code. The branches must be merged back to the main branch before the final push is done, which submits the assignment. Please refer to the GitHub guide for branching and pull requests. The breakdown of your individual grade will be 90% for your individual member function implementations and 10% for following the branching and pull requests procedures, and overall class functionality in the code. This homework is only submitted through GitHub by pushing the commits your team make. The deadline is Friday, September 27.
 
